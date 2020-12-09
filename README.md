@@ -11,7 +11,7 @@
 ![hinh](images/s2.png)
 khi đưa chuột vào các mục của banner, các background sẽ chuyển màu để người dùng biết được là đang chỉ con trỏ chuột vào mục nào.
    ### phần images tiếp theo style để thu phóng khi đưa chuột vào vị trí từng ảnh thì ảnh sẽ nổi lên một mức độ nhất định
-    ![images](images/s5.png)
+   ![images](images/s5.png)
 * ## __Phần content chia làm 3 phần__ 
 1. Tin tức câp nhật mới nhất sẽ hiện ở đây 
 2. Tin tức được người đọc nhiều nhất
