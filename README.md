@@ -14,7 +14,7 @@ khi đưa chuột vào các mục của banner, các background sẽ chuyển m�
 ![images](images/s11.png)
 ở phần content này có style thẻ a khi di chuột vào thì dòng tin của bài viết sẽ được chuyển sang màu cam chủ đạo
 * __phần footer__
-    ### được bố trí đơn giản trên nền đen, chỉ ra tên các các liên hệ muốn đến với người tạo ra website
+    ### được bố trí đơn giản trên nền đen, chia ra tên các các liên hệ muốn đến với người tạo ra website
     ![images](images/s4.png)
 
 # __còn đây là phần code html__
