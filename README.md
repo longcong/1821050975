@@ -1,5 +1,5 @@
 # Báo cáo bài thiết kế web.
-## website tin tức về game
+## Website tin tức về game
 #### __Sinh viên: Nguyễn Thanh Long__
 #### __MSV: 1821050975__
 #### __Lớp: DCCTPM63B__
@@ -10,16 +10,16 @@
 *  ## __Phần banner chia làm 2 phần__ 
 ![hinh](images/s2.png)
 khi đưa chuột vào các mục của banner, các background sẽ chuyển màu để người dùng biết được là đang chỉ con trỏ chuột vào mục nào.
-   ### phần images tiếp theo style để thu phóng khi đưa chuột vào vị trí từng ảnh thì ảnh sẽ nổi lên một mức độ nhất định
+   ### Phần images tiếp theo style để thu phóng khi đưa chuột vào vị trí từng ảnh thì ảnh sẽ nổi lên một mức độ nhất định
    ![images](images/s5.png)
 * ## __Phần content chia làm 3 phần__ 
 1. Tin tức câp nhật mới nhất sẽ hiện ở đây 
 2. Tin tức được người đọc nhiều nhất
 3. Tin tức liên quan đến game
 ![images](images/s11.png)
-ở phần content này có style thẻ a khi di chuột vào thì dòng tin của bài viết sẽ được chuyển sang màu cam chủ đạo
+Ở phần content này có style thẻ a khi di chuột vào thì dòng tin của bài viết sẽ được chuyển sang màu cam chủ đạo
 * ## __Phần footer__
-    ### được bố trí đơn giản trên nền đen, chia ra tên các các liên hệ muốn đến với người tạo ra website
+    ### được bố trí đơn giản trên nền đen, chia ra các mục liên hệ với người tạo ra website
     ![images](images/s4.png)
 
 # __Còn đây là phần code html__
