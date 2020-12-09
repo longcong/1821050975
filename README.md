@@ -5,7 +5,7 @@
 #### __Lớp: DCCTPM63B__
 #### __Học phần: Thiết kế Web_7080211__
 #### __Nhóm : 11__
- ## __Đây là trang chủ của trang tin tức__
+ ## __Đây là trang chủ của website tin tức về game__
 ![hinh](images/s1.png)
 *  ## __Phần banner chia làm 2 phần__ 
 ![hinh](images/s2.png)
