@@ -3,7 +3,7 @@
 #### __Sinh viên: Nguyễn Thanh Long__
 #### __MSV: 1821050975__
 #### __Lớp: DCCTPM63B__
-#### __Học phần: Thiết kết Web_7080211__
+#### __Học phần: Thiết kế Web_7080211__
 #### __Nhóm : 11__
  ## __Đây là trang chủ của trang tin tức__
 ![hinh](images/s1.png)
