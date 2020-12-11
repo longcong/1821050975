@@ -19,7 +19,7 @@
 2. Tin tức được người đọc nhiều nhất
 3. Tin tức liên quan đến game
 ![images](images/s11.png)
-Ở phần content này có style thẻ a khi di chuột vào thì dòng tin của bài viết sẽ được chuyển sang màu cam chủ đạo
+Ở phần content này có khi di chuột vào dòng tin của bài viết sẽ được chuyển sang màu cam chủ đạo để người dùng biết được là mình đang đưa chuột vào mục nào của bài viết.
 * ## __Phần footer__
     ### được bố trí đơn giản trên nền đen, chia ra các mục liên hệ với người tạo ra website
     ![images](images/s4.png)
